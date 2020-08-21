@@ -5,3 +5,5 @@
 - enter your API key in the TASK.py file for weather from openWeatherMap API.
 - this is made for windows only if you want for mac or linux you need to change the file system and path in the TASK.py file and other areas accordingly.
 - works best when you have only one microphone
+- if error in PyAudio not installing use the whl file or google pyaudio whl and download the suitable whl file 
+- - here I had python 3.7 so I have cp37 whl file
