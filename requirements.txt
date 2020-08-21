@@ -1,0 +1,17 @@
+gtts
+playsound
+nltk
+os
+wikipedia
+random
+nltk
+psutil
+webbrowser
+win32api
+speech_recognition
+googlesearch
+google
+webbrowser
+wikipedia
+requests
+json
